@@ -24,19 +24,8 @@ return {
         },
         -- ensure these language parsers are installed
         ensure_installed = {
-          "json",
-          "javascript",
           "typescript",
-          "tsx",
-          "yaml",
-          "markdown",
-          "markdown_inline",
-          "bash",
           "lua",
-          "vim",
-          "dockerfile",
-          "gitignore",
-          "query",
           "python",
           "rust",
           "toml",
@@ -49,6 +38,11 @@ return {
             scope_incremental = false,
             node_decremental = "<bs>",
           },
+        },
+        rainbow = {
+          enable = true,
+          extended_mode = true,
+          max_file_lines = nil,
         },
       })
     end,
