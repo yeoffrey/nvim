@@ -25,4 +25,4 @@ The floating terminal, accessed by `<leader>ft` is a rounded border instead of t
 
 File: `lua/config/lazy.lua`
 
-See the [LazyVim Extras](https://www.lazyvim.org/extras). You can set these using the command `:LazyExtras` for an easy way to install these, but I recommend instead declaratively setting these in `lua/config/lazy.lua` for easy reproducibility. You can find the code easily accessible on each extra page. For example, see the [Rust Extra](https://www.lazyvim.org/extras/lang/rust)
+See the [LazyVim Extras](https://www.lazyvim.org/extras). You can set these using the command `:LazyExtras` for an easy way to install these, but I recommend instead declaratively setting these in `lua/config/lazy.lua` for easy reproducibility. You can find the code easily accessible on each extra page. For example, see the [Rust Extra](https://www.lazyvim.org/extras/lang/rust).
