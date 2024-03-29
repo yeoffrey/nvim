@@ -1,4 +1,4 @@
-# 💤 Yeoffrey's LazyVim Configuration
+# 💤 YeoffVim Configuration
 
 This is my NeoVim configuration, based on the starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the LazyVim [documentation](https://lazyvim.github.io/installation) to make modifications. Below is all the changes I've made.
